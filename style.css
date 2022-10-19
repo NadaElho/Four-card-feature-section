@@ -91,7 +91,7 @@ main article img{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        min-height: 650px;
+        min-height: 500px;
         gap: 25px;
     }
     main div div {
